@@ -37,7 +37,8 @@ The basics of artifical intelligence in a nutshell (agent theory, search algorit
 - Logik (Satisfiability)
 - Entscheidungsprobleme und Algorithmen zum Lösen
 - Exkurs: Complexitätsklassen (P, NP, NP-Complete, NP-Hard, P = NP)
-- Exkurs: Implementation: From Graph to Hard Coding (with use-case "Staubsaugroboter")
+- Exkurs: Implementation: From Graph to Hard Coding
+- Reallife problem "Staubsaugerroboter Use-Case"
 
 
 
